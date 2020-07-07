@@ -104,8 +104,8 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: June 2012 - August 2012
+    - role: Information Systems Administrator
+      time: June 2013 - August 2014
       company: Tsildiroglou Vasilis | B.moto (Motorcycle Service-Parts Trading)
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -115,17 +115,14 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
+    - role: Information Systems Administrator
       time: June 2012 - August 2012
       company: Pasxalidis Theodoros | Piaggio Group (Dealership)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I was working on a Motorcycle Service-Parts dealership. In my role as Database Administrator, 
+        I was responsible for the right management of the database. My responsibilities include:
+          - Data entry of the new products and i was responsible for the orders which were made by the clients.
+          - Taking care of the digital marketing sector(Facebook Ads, Goodle Adwords, Google Analytics).
      
 projects:
     title: Projects
