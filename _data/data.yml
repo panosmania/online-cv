@@ -80,22 +80,21 @@ education:
 experiences:
     - role: Lead Developer
       time: May 2015 - October 2018
-      company: Gaganis Christos A.E. Epikoinonion (Germanos Group)
+      company: Xydas Georgios | web Applications – Informatics and Internet Services
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        I was working as freelance collaborator in a company that provides internet services,
+        Some of my responsibilities include:
+          - Programmed web solutions for clients using HTML, CSS and javascript frameworks.
+          - Redesigned personal websites for many clients to increase their Google SEO.
+          - Provided front-end support for small business WordPress websites.
+          - Built custom websites using Bootstrap and Wordpress, including plug-ins and filters.
+          - Implemented Google AdSense, sendgrip, instagram & facebook Ads in order to increase and monetize website traffic.
+          - Implemented Newsletters templates.
           - Bullet point
           - Bullet point
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: May 2015 - October 2018
+      company: Gaganis Christos A.E. Epikoinonion (Germanos Group)
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -119,8 +118,8 @@ experiences:
         I was working on a Motorcycle Service-Parts dealership. In my role as Database Administrator, 
         I was responsible for the right management of the database. My responsibilities include:
           - Data entry of the new products and i was responsible for the orders which were made by the clients.
-          - Taking care of the digital marketing sector(Facebook Ads, Goodle Adwords, Google Analytics).
-    - role: Web Developer
+          - Taking care of the digital marketing sector(Facebook Ads, Google AdSense).
+    - role: Website and Database Administrator
       time: Jan 2011 - Present
       company: freelance
       details: |
@@ -128,7 +127,7 @@ experiences:
           - Tsildiroglou Vasilis | B.moto (Motorcycle Service-Parts Trading):
           As a E-Shop Administrator I was responsible to update,edit site products & also to manage the orders that were made by the clients.
           - Pasxalidis Theodoros | Piaggio Group (Dealership):
-          I was responsible for the right management of the database & Taking care of the digital marketing sector(Facebook Ads, Goodle Adwords).
+          I was responsible for the right management of the database & Taking care of the digital marketing sector(Facebook Ads, Google AdSense).
                 
 projects:
     title: Projects
