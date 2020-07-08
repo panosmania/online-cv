@@ -78,7 +78,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
+    - role: Web Developer
       time: May 2015 - October 2018
       company: Xydas Georgios | web Applications – Informatics and Internet Services
       details: |
@@ -119,15 +119,15 @@ experiences:
         I was responsible for the right management of the database. My responsibilities include:
           - Data entry of the new products and i was responsible for the orders which were made by the clients.
           - Taking care of the digital marketing sector(Facebook Ads, Google AdSense).
-    - role: Website and Database Administrator
-      time: Jan 2011 - Present
-      company: freelance
-      details: |
-        As a freelance Developer i was working for various company's such as:
-          - Tsildiroglou Vasilis | B.moto (Motorcycle Service-Parts Trading):
-          As a E-Shop Administrator I was responsible to update,edit site products & also to manage the orders that were made by the clients.
-          - Pasxalidis Theodoros | Piaggio Group (Dealership):
-          I was responsible for the right management of the database & Taking care of the digital marketing sector(Facebook Ads, Google AdSense).
+    #- role: Website and Database Administrator
+      #time: Jan 2011 - Present
+      #company: freelance
+      #details: |
+        #As a freelance Developer i was working for various company's such as:
+          #- Tsildiroglou Vasilis | B.moto (Motorcycle Service-Parts Trading):
+          #As a E-Shop Administrator I was responsible to update,edit site products & also to manage the orders that were made by the clients.
+          #- Pasxalidis Theodoros | Piaggio Group (Dealership):
+          #I was responsible for the right management of the database & Taking care of the digital marketing sector(Facebook Ads, Google AdSense).
                 
 projects:
     title: Projects
