@@ -35,3 +35,33 @@
 </section><!--//section-->
 {% endif %}
 
+<section class="section publications-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ Experiences.title }}
+  </h2>
+
+  {% if Experiences.intro %}
+  <div class="intro">
+    {{ Experiences.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for Experience in Experiences.papers %}
+  <div class="item">
+    {% if Experience.link %}
+      <li><a href="{{ Experience.link }}">{{ Experience.title }}</a></li>
+    {% else %}
+      <li>{{ Experience.title }}</li>
+    {% endif %}
+    <div class="publication-authors">{{ Experience.authors }}</div>
+    <div class="publication-conference">{{ Experience.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
