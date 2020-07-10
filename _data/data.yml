@@ -139,7 +139,7 @@ projects:
 
       - title: DevStudio
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A web app that contains RESTFUL API and a server-side based on the same datae designed to help web developers/designers market their services."
 
       - title: Tempo
         link: "#"
