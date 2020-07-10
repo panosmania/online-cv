@@ -133,8 +133,8 @@ projects:
     intro: >
       Some of my Personal Project that i have create using Modern Technologies (Deployed on Heroku Server).
     assignments:
-      - title: Velocity
-        link: "#hook"
+      - title: Travel App
+        link: "https://tse-travels-app.herokuapp.com/"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
