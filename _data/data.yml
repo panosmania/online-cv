@@ -42,7 +42,8 @@ sidebar:
         item1: JavaScript (ES6/8), NodeJs
         link:
 
-      - item: Snowboarding
+      - item: Databases
+        item1: MongoDB, MySQL
         link:
 
       - item: Cooking
