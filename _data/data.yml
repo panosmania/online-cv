@@ -135,12 +135,12 @@ projects:
     assignments:
       - title: Travel App
         link: "https://tse-travels-app.herokuapp.com/"
-        tagline: "A web app that contains RESTFUL API (Implemented via nodejs, express, mongodb, and mongoose library)
-                and a server-side (with JWT Authentication (user sign up, log in, password reset) , Node.js security, payments & more) based on the same data."
+        tagline: "A Web App that contains RESTful API (Implemented via Nodejs, Express, Mongodb & Mongoose Library)
+                and a Server-Side (With JWT Authentication (User Sign Up, Log in, Password Reset) & payments (Stripe) based on the same data."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A web app that contains RESTFUL API and a server-side based on the same datae designed to help web developers/designers market their services."
+      - title: E-commerce App
+        link: "https://tse-modern-clothing.herokuapp.com/"
+        tagline: "A E-commerce Web App implemented with React (Redux Saga), Firebase (Data stroring, Sign in with Google Account), & Testing via Jest, Enzyme."
 
       - title: Tempo
         link: "#"
