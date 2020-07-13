@@ -38,11 +38,12 @@ sidebar:
       
 
     interests:
-      - item: Languages  NodeJs, HTML5
-        link: "https://panosmania.github.io/online-cv/"
+      - item: Languages
+        item1:NodeJs, HTML5
+        link:
 
       - item: Snowboarding
-        link: 
+        link:
 
       - item: Cooking
         link:
