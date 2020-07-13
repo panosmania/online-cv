@@ -136,19 +136,19 @@ projects:
       - title: Travel App
         link: "https://tse-travels-app.herokuapp.com/"
         tagline: "A Web App that contains RESTful API (Implemented via Nodejs, Express, Mongodb & Mongoose Library)
-                and a Server-Side (With JWT Authentication (User Sign Up, Log in, Password Reset) & payments (Stripe) based on the same data."
+                and a Server-Side (With JWT Authentication (User Sign Up, Log in, Password Reset) & payments (Stripe)) based on the same data."
 
       - title: E-commerce App
         link: "https://tse-modern-clothing.herokuapp.com/"
         tagline: "A E-commerce Web App implemented with React (Redux Saga), Firebase (Data stroring, Sign in with Google Account), & Testing via Jest, Enzyme."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Chat App
+        link: "https://tse-node-chat-app.herokuapp.com/"
+        tagline: "A Chat Web App Implemented with Nodejs & Socket.IO WebSocket . "
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Weather App
+        link: "https://tse-weather-application.herokuapp.com/"
+        tagline: "A Weather Web App that it uses Node.js, Express & it takes data from Mapbox.com and Darksky.net API."
 
       - title: Delta
         link: "#"
