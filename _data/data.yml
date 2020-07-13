@@ -135,7 +135,8 @@ projects:
     assignments:
       - title: Travel App
         link: "https://tse-travels-app.herokuapp.com/"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A web app that contains RESTFUL API (Implemented via nodejs, express, mongodb, and mongoose library)
+                and a server-side (with JWT Authentication (user sign up, log in, password reset) , Node.js security, payments & more) based on the same data."
 
       - title: DevStudio
         link: "#"
