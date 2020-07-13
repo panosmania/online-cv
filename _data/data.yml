@@ -39,7 +39,7 @@ sidebar:
 
     interests:
       - item: Languages
-        item1: JavaScript (ES6/8), NodeJs.
+        level: JavaScript (ES6/8), NodeJs.
         link:
 
       - item: Snowboarding
