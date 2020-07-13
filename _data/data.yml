@@ -39,7 +39,7 @@ sidebar:
 
     interests:
       - item: Languages
-        level: JavaScript (ES6/8), NodeJs.
+        item1: JavaScript (ES6/8), NodeJs
         link:
 
       - item: Snowboarding
@@ -136,7 +136,7 @@ projects:
     assignments:
       - title: Travel App
         link: "https://tse-travels-app.herokuapp.com/"
-        tagline: "A Web App that contains RESTful API (Implemented via Nodejs, Express, Mongodb & Mongoose Library)
+        tagline: "A Web App that contains RESTful API (Implemented via NodeJs, Express, Mongodb & Mongoose Library)
                 and a Server-Side (With JWT Authentication (User Sign Up, Log in, Password Reset) & payments (Stripe)) based on the same data."
 
       - title: E-commerce App
@@ -145,11 +145,11 @@ projects:
 
       - title: Chat App
         link: "https://tse-node-chat-app.herokuapp.com/"
-        tagline: "A Chat Web App Implemented with Nodejs & Socket.IO WebSocket. "
+        tagline: "A Chat Web App Implemented with NodeJs & Socket.IO WebSocket. "
 
       - title: Weather App
         link: "https://tse-weather-application.herokuapp.com/"
-        tagline: "A Weather Web App that it uses Nodejs, Express & it takes data from Mapbox.com and Darksky.net API."
+        tagline: "A Weather Web App that it uses NodeJs, Express & it takes data from Mapbox.com and Darksky.net API."
 
 
 #publications:
