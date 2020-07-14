@@ -55,7 +55,7 @@ sidebar:
         link:
         
       - item: Other/Tools
-        item1: Postman, VsCode, MVC Architecture, MongoDB Compass/Atlas, MongoDB Atlas
+        item1: Postman, VsCode, MVC Architecture, MongoDB Compass/Atlas
         link:
         
       - item: CRM/ERP Platforms
@@ -63,7 +63,7 @@ sidebar:
         link:
         
       - item: Decently Experiences
-        item1: Bash Shell, Postman, VsCode, MVC Architecture, 
+        item1: WordPress, Bash Shell, PowerBI, KNIME, RStudio 
         link:
 
 career-profile:
