@@ -39,14 +39,31 @@ sidebar:
 
     interests:
       - item: Languages
-        item1: JavaScript (ES6/8), NodeJs
+        item1: NodeJs, JavaScript (ES6/8), HTML/CSS
         link:
+        
+        - item: Frameworks/Libraries
+          item1: ReactJS (Redux, Hooks), ExressJS, Jest, Enzyme, SASS
+          link:
 
       - item: Databases
         item1: MongoDB, MySQL
         link:
 
-      - item: Cooking
+      - item: VCS
+        item1: Git/GitHub
+        link:
+        
+      - item: Other/Tools
+        item1: Postman, VsCode, MVC Architecture, MongoDB Compass/Atlas, MongoDB Atlas
+        link:
+        
+      - item: CRM/ERP Platforms
+        item1: Siebel, SAP, Alphapartner
+        link:
+        
+      - item: Decently Experiences
+        item1: Bash Shell, Postman, VsCode, MVC Architecture, 
         link:
 
 career-profile:
