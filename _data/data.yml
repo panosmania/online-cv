@@ -62,9 +62,9 @@ sidebar:
         item1: Siebel, SAP, Alphapartner
         link:
         
-      - item: Decently Experiences
-        item1: WordPress, Bash Shell, PowerBI, KNIME, RStudio 
-        link:
+      #- item: Decently Experiences
+        #item1: WordPress, Bash Shell, PowerBI, KNIME, RStudio 
+        #link:
 
 career-profile:
     title: Career Profile
