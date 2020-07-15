@@ -43,7 +43,7 @@ sidebar:
         link:
         
       - item: Frameworks/Libraries
-        item1: ReactJS (Redux, Hooks), ExressJS, Jest, Enzyme, SASS
+        item1: ReactJS (Redux, Hooks), ExressJS, Jest, Enzyme, Socket.IO, Sass
         link:
 
       - item: Databases
