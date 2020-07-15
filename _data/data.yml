@@ -43,7 +43,7 @@ sidebar:
         link:
         
       - item: Frameworks/Libraries
-        item1: ReactJS (Redux, Hooks), ExressJS, Jest, Enzyme, Socket.IO, Sass
+        item1: ReactJS (Redux, Hooks), ExressJS, Jest, Enzyme, ParcelJS, Socket.IO, Sass
         link:
 
       - item: Databases
@@ -125,7 +125,7 @@ experiences:
       time: June 2013 - August 2014
       company: Tsildiroglou Vasilis | B.moto (Motorcycle Service-Parts Trading)
       details: |
-        I was working in a Motorcycle Spare-Parts store,
+        I was working as freelance collaborator in a Motorcycle Spare-Parts store in order to improve sales.
         As a main manager on online Sales, my primary goals include:
           - Entry, Update site products.
           - Increase online Sales via digital marketing (Facebook Ads, Google AdSense).
