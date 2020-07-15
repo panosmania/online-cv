@@ -159,7 +159,7 @@ projects:
 
       - title: E-commerce App
         link: "https://tse-modern-clothing.herokuapp.com/"
-        tagline: "A E-commerce Web App implemented with React (Redux Saga), Firebase (Data Stroring, Sign in with Google Account), & Testing via Jest, Enzyme."
+        tagline: "A E-commerce Web App implemented with React (Redux Saga), Firebase (Data Stroring, Sign in with Google Account), & Testing via Jest & Enzyme."
 
       - title: Chat App
         link: "https://tse-node-chat-app.herokuapp.com/"
