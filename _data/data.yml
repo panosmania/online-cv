@@ -163,7 +163,7 @@ projects:
 
       - title: Chat App
         link: "https://tse-node-chat-app.herokuapp.com/"
-        tagline: "A Chat Web App Implemented with NodeJs & Socket.IO WebSocket. "
+        tagline: "A Chat Web App Implemented with NodeJs, Express & Socket.IO WebSocket. "
 
       - title: Weather App
         link: "https://tse-weather-application.herokuapp.com/"
