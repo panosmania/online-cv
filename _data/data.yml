@@ -156,7 +156,7 @@ projects:
       - title: Travel App
         link: "https://tse-travels-app.herokuapp.com/"
         tagline: "A Web App builded on MVC Architecture, that contains RESTful API (Implemented via NodeJs, Express, Mongodb & Mongoose Library)
-                and a Server-Side (With JWT Authentication (User Sign Up, Log in, Password Reset) & payments (Stripe)) based on the same data."
+                and a Server-Side (With JWT Authentication (User Sign Up, Log in, Password Reset), Upload Image Profile & payments (Stripe)) based on the same data."
 
       - title: E-commerce App
         link: "https://tse-modern-clothing.herokuapp.com/"
