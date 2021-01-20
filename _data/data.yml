@@ -63,6 +63,14 @@ sidebar:
         item1: Siebel, SAP, Alphapartner
         link:
         
+      - item: CMS Platforms
+        item1: WordPress (WooCommerce)
+        link:
+        
+      - item: Decently Experiences
+        item1: PowerBI, KNIME, RStudio , Linux distribution (CentOS)
+        link:
+        
       #- item: Decently Experiences
         #item1: WordPress, Bash Shell, PowerBI, KNIME, RStudio 
         #link:
