@@ -107,7 +107,7 @@ education:
           - Bullet point
 experiences:
     - role: Web Developer
-      time: April 2016 - January 2020
+      time: April 2016 - January 2021
       company: Xydas Georgios | web Applications – Informatics and Internet Services
       details: |
         I working as freelance collaborator in a company that provides internet services,
@@ -159,8 +159,13 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Some of my Personal Project that i have create using Modern Technologies (Deployed on Heroku Server).
+      Some of my Personal Project that i have create using Modern Technologies (Deployed on Online Server).
     assignments:
+      - title: Coupons App
+        link: "https://www.couponakias.com/"
+        tagline: "A Web App that contains coupons in order to make purchases more economical, , with more than 100 unique visitor every day. 
+                Builded on WooCommerce , that contains customs JS, VBA Scripts in order to manipulate data from back to front end."
+    
       - title: Travel App
         link: "https://tse-travels-app.herokuapp.com/"
         tagline: "A Web App builded on MVC Architecture, that contains RESTful API (Implemented via NodeJs, Express, Mongodb & Mongoose Library)
