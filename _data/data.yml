@@ -163,7 +163,7 @@ projects:
     assignments:
       - title: Coupons App
         link: "https://www.couponakias.com/"
-        tagline: "A Web App that contains coupons in order to make purchases more economical, , with more than 100 unique visitor every day. 
+        tagline: "A Web App that contains coupons in order to make purchases more economical, with more than 100 unique visitor every day. 
                 Builded on WooCommerce , that contains customs JS, VBA Scripts in order to manipulate data from back to front end."
     
       - title: Travel App
