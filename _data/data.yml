@@ -16,7 +16,7 @@ sidebar:
 
     # Sidebar links
     email: panostser@yahoo.gr
-    phone: +306979345954
+    phone: +6979345954
     website: #blog.webjeda.com #do not add http://
     linkedin: panagiotis-tserpes
     github: panosmania
@@ -79,7 +79,7 @@ career-profile:
     title: Career Profile
     summary: |
       Ambitious and detail-oriented Information Systems Engineer, interested in web apps and modern technologies.
-      I mainly focus on Backend Web Development. Besides my work, in my free time i
+      I mainly focus on Backend Web Development. Besides my work, in my free time I
       work on personal projects in order to practice my skills on Development (Back-end, Front-end).
       Born in 16/5/1992 and have completed military obligations.
 education:
@@ -110,7 +110,7 @@ experiences:
       time: April 2016 - January 2021
       company: Xydas Georgios | web Applications – Informatics and Internet Services
       details: |
-        I working as freelance collaborator in a company that provides internet services,
+        I am working as freelance collaborator in a company that provides internet services.
         Some of my responsibilities include:
           - Programmed web solutions for clients using HTML, CSS and javascript frameworks.
           - Provided front-end support for small business WordPress websites.
@@ -135,14 +135,14 @@ experiences:
       company: Tsildiroglou Vasilis | B.moto (Motorcycle Service-Parts Trading)
       details: |
         I was working as freelance collaborator in a Motorcycle Spare-Parts store in order to improve sales.
-        As a main manager on online Sales, my primary goals include:
-          - Entry, Update site products.
-          - Increase online Sales via digital marketing (Facebook Ads, Google AdSense).
+        As a main manager on online sales, my primary goals include:
+          - Entry, update site products.
+          - Increase online sales via digital marketing (Facebook Ads, Google AdSense).
     - role: Information Systems Administrator
       time: June 2012 - August 2012
       company: Pasxalidis Theodoros | Piaggio Group (Dealership)
       details: |
-        I was working as freelance collaborator in a Motorcycle Service-Parts dealership. As Database Administrator, 
+        I was working in a Motorcycle Service-Parts dealership. As Database Administrator, 
         I was responsible for the design & creation of the database (MySQL). My responsibilities include:
           - Import products in the database.
           - Taking care of the digital marketing sector (Facebook Ads, Google AdSense).
@@ -159,12 +159,12 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Some of my Personal Project that i have create using Modern Technologies (Deployed on Online Server).
+      Some of my personal project that I have create using Modern Technologies (Deployed on Online Server).
     assignments:
       - title: Coupons App
         link: "https://www.couponakias.com/"
         tagline: "A Web App that contains coupons in order to make purchases more economical, with more than 100 unique visitor every day. 
-                Builded on WooCommerce , that contains customs JS, VBA Scripts in order to manipulate data from back to front end."
+                Builded on WooCommerce, that contains customs JS, VBA Scripts in order to manipulate data from back to front end."
     
       - title: Travel App
         link: "https://tse-travels-app.herokuapp.com/"
