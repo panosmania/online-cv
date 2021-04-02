@@ -11,7 +11,7 @@ sidebar:
     tagline: Junior ICT Engineer
     tagline1: Junior Developer
     birthday: 16/05/1992
-    country: Kavala, Greece
+    country: Kavala-Athens, Greece
     avatar: profile14.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     creation: Creation Date
 
@@ -108,7 +108,7 @@ education:
           - Bullet point
 experiences:
     - role: Web Developer
-      time: April 2016 - March 2021
+      time: April 2016 - Until Now
       company: Xydas Georgios | web Applications – Informatics and Internet Services
       details: |
         I am working as freelance collaborator in a company that provides internet services.
