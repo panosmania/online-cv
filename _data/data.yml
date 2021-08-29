@@ -69,18 +69,18 @@ sidebar:
         link:
         
       - item: Decently Experiences
-        item1: PowerBI, KNIME, RStudio , Linux Distributions (CentOS)
+        item1: PowerBI, KNIME, RStudio, Sharepoint(Powerapps, PowerAutomate, ShareList), Linux Distributions (CentOS)
         link:
         
       #- item: Decently Experiences
-        #item1: WordPress, Bash Shell, PowerBI, KNIME, RStudio 
+        #item1: WordPress, Bash Shell, PowerBI, Sharepoint(Powerapps, PowerAutomate, ShareList), KNIME, RStudio 
         #link:
 
 career-profile:
     title: Career Profile
     summary: |
       Ambitious and detail-oriented Information Systems Engineer, interested in web apps and modern technologies.
-      I mainly focus on Backend Web Development. Besides my work, in my free time I
+      Besides my work, in my free time I
       work on personal projects in order to practice my skills on Development (Back-end, Front-end).
       Born in 16/5/1992 and have completed military obligations.
 education:
