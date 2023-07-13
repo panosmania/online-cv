@@ -57,7 +57,7 @@ sidebar:
         link:
         
       - item: Other/Tools
-        item1: Postman, VsCode, MVC Architecture, MongoDB Compass/Atlas, SQL Server, Power BI Report Server (On-Premise & Cloud Services)
+        item1: Postman, VsCode, MVC Architecture, MongoDB Compass/Atlas, SQL Server, Power BI RS (On-Premise & Cloud Services)
         link:
         
       - item: CRM/ERP Platforms
