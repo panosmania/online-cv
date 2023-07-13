@@ -204,20 +204,20 @@ projects:
                 Builded on WooCommerce, that contains customs JS, VBA Scripts in order to manipulate data from back to front end."
     
       - title: Travel App
-        link: "https://tse-travels-app.herokuapp.com/"
+        #link: "https://tse-travels-app.herokuapp.com/"
         tagline: "A Web App builded on MVC Architecture, that contains RESTful API (Implemented via NodeJs, Express, Mongodb & Mongoose Library)
                 and a Server-Side (With JWT Authentication (User Sign Up, Log in, Password Reset), Upload Image Profile & payments (Stripe)) based on the same data."
 
       - title: E-commerce App
-        link: "https://tse-modern-clothing.herokuapp.com/"
+        #link: "https://tse-modern-clothing.herokuapp.com/"
         tagline: "A E-commerce Web App implemented with React (Redux Saga), Firebase (Data Storing, Sign in with Google Account), & Testing via Jest & Enzyme."
 
       - title: Chat App
-        link: "https://tse-node-chat-app.herokuapp.com/"
+        #link: "https://tse-node-chat-app.herokuapp.com/"
         tagline: "A Chat Web App Implemented with NodeJs, Express & Socket.IO WebSocket. "
 
       - title: Weather App
-        link: "https://tse-weather-application.herokuapp.com/"
+        #link: "https://tse-weather-application.herokuapp.com/"
         tagline: "A Weather Web App that it uses NodeJs, Express & it takes data from Mapbox.com and Darksky.net API."
 
 
