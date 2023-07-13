@@ -119,7 +119,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Application Developer
+    - role: Application Developer | Business Analyst
       time: April 2021 - Until Now
       company: Mitsis Group (Mitsis Hotels)
       details: |
