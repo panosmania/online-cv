@@ -57,7 +57,7 @@ sidebar:
         link:
         
       - item: Other/Tools
-        item1: Postman, VsCode, MVC Architecture, MongoDB Compass/Atlas, SQL Server, Power BI RS
+        item1: Postman, VsCode, MVC Architecture, MongoDB Compass/Atlas, Microsoft SQL Server, Power BI RS
         link:
         
       - item: CRM/ERP Platforms
@@ -73,7 +73,7 @@ sidebar:
         link:
 
       - item: Decently Experiences
-        item1: KNIME, RStudio, Sharepoint(Powerapps, PowerAutomate, ShareList)
+        item1: KNIME, RStudio, Sharepoint (Powerapps, PowerAutomate, ShareList)
         link: 
         
       #- item: Decently Experiences - Extensive Experience
