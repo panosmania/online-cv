@@ -67,8 +67,16 @@ sidebar:
       - item: CMS Platforms
         item1: WordPress (WooCommerce)
         link:
-        
+
+        - item: Business Intelligence Tools
+        item1: Microsoft Power BI
+        link:
+
       - item: Decently Experiences
+        item1: KNIME, RStudio, Sharepoint(Powerapps, PowerAutomate, ShareList)
+        link: 
+        
+      #- item: Decently Experiences - Extensive Experience
         item1: PowerBI, KNIME, RStudio, Sharepoint(Powerapps, PowerAutomate, ShareList), Linux Distributions (CentOS)
         link:
         
