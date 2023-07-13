@@ -75,6 +75,10 @@ sidebar:
       - item: Decently Experiences
         item1: KNIME, RStudio, Sharepoint (Powerapps, PowerAutomate, ShareList)
         link: 
+
+      - item: Familiar With
+        item1: SSIS, ADF ETL, ADF Data Flow, Python (Django)
+        link:
         
       #- item: Decently Experiences - Extensive Experience
         #item1: PowerBI, KNIME, RStudio, Sharepoint(Powerapps, PowerAutomate, ShareList), Linux Distributions (CentOS)
@@ -121,8 +125,19 @@ experiences:
       details: |
         I am working on Mitsis Group (Mitsis Hotels) as Application Developer.
         Some of my responsibilities include:
-          - Creating internal Applications for the Organisation Departments (HR, Marketing, Accounting, IT) using Modern Technologies depending on the needs of each project (React, Django, Power Apps, Power BI).
+          - Creating internal Applications for the Organisation Departments (HR, Marketing, Accounting, IT) using Modern Technologies depending on the needs of each project (React, Django, Power Apps).
           - Maintaining, re-Design and Adding New Features in Existing Applications.
+          - Maintaining, re-Design and Adding New Features in Existing Applications.
+          - Created and developed over 100 complex BI reports, providing valuable insights and analysis to support business decision-making.
+    
+    #- role: Application Developer
+      #time: April 2021 - Until Now
+      #company: Mitsis Group (Mitsis Hotels)
+      #details: |
+        #I am working on Mitsis Group (Mitsis Hotels) as Application Developer.
+        #Some of my responsibilities include:
+          #- Creating internal Applications for the Organisation Departments (HR, Marketing, Accounting, IT) using Modern Technologies depending on the needs of each project (React, Django, Power Apps, Power BI).
+          #- Maintaining, re-Design and Adding New Features in Existing Applications.
       #- Programmed web solutions for clients using HTML, CSS and Javascript Frameworks.
     - role: Web Developer
       time: April 2016 - Until Now
