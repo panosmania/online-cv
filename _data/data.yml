@@ -119,11 +119,11 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Application Developer | Business Analyst
+    - role: Software Engineer | Business Analyst
       time: April 2021 - Until Now
       company: Mitsis Group (Mitsis Hotels)
       details: |
-        I am currently working at Mitsis Group (Mitsis Hotels) as an Application Developer | Business Analyst.
+        I am currently working at Mitsis Group (Mitsis Hotels) as an Software Engineer | Business Analyst.
         Some of my responsibilities include:
         - Successfully served as a Business Analyst, contributing to the development and delivery of over 100 complex BI reports, encompassing Financial Reporting for the financial department and custom reporting for Marketing, HR, IT based on the organization needs. This included drafting comprehensive Business Requirement Documents (BRDs) and leveraging deep expertise to provide valuable insights and analysis that drive informed business decision-making.
         - Led the development of a comprehensive Invoices app using React for the Accounting department, optimizing financial processes. Designed and implemented a Power App that efficiently evaluated the performance of over 4000 employees, transforming HR management.
@@ -131,7 +131,7 @@ experiences:
         - Ensuring the correct functioning of the report server and Azure Data Factory (ADF) to enable seamless reporting and data integration processes.
         - Contributing to the development and implementation of automation solutions using SSIS, including the creation of automated workflows and tasks for small-scale projects.
         - Assisting with queries to extract, transform, and load data, supporting data analysis and reporting needs.
-        - Maintaining and enhancing existing applications, implementing redesigns, and adding new features to improve functionality.
+        - Maintained and enhanced existing applications, implementing redesigns, and adding new features to improve functionality.
           
         
     #I am currently working at Mitsis Group (Mitsis Hotels) as an Application Developer | Business Analyst.
