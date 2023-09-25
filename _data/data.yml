@@ -77,7 +77,7 @@ sidebar:
         link: 
 
       - item: Familiar With
-        item1: SSIS, ADF ETL, ADF Data Flow, Python (Django)
+        item1: SSIS, ADF ETL, ADF Data Flow
         link:
         
       #- item: Decently Experiences - Extensive Experience
@@ -125,12 +125,24 @@ experiences:
       details: |
         I am currently working at Mitsis Group (Mitsis Hotels) as an Application Developer | Business Analyst.
         Some of my responsibilities include:
-          - Successfully developing and delivering over 100 complex BI reports, leveraging deep expertise to provide valuable insights and analysis that drive informed business decision-making.
-          - Creating internal applications for various departments within the organization (HR, Marketing, Accounting, IT) using modern technologies such as React, Django, and Power Apps.
-          - Ensuring the correct functioning of the report server and Azure Data Factory (ADF) to enable seamless reporting and data integration processes.
-          - Contributing to the development and implementation of automation solutions using SSIS, including the creation of automated workflows and tasks, on small-scale projects.
-          - Assisting with queries to extract, transform, and load data, supporting data analysis and reporting needs.
-          - Maintaining and enhancing existing applications, implementing redesigns, and adding new features to improve functionality.
+            - Successfully Developed and delivered 100+ complex BI reports, encompassing Financial Reporting for the financial department and custom reporting for Marketing, HR, and IT. This included data sourced from Triparound, Moosend, and Google Analytics via API, all tailored to specific organizational needs. Additionally, I created and managed reporting solutions within Jira. In the realm of HR reporting, I generated reports by analyzing data from multiple sources to support HR decision-making and workforce management. I leveraged data from HRIS systems and HR-related platforms to craft customized reports for talent acquisition, performance evaluation, and employee engagement.
+            - Led the development of a comprehensive Invoices app using React for the Accounting department, optimizing financial processes.
+                Designed and implemented a Power App that efficiently evaluated the performance of over 4000 employees, transforming HR management.
+            - Played a pivotal role as a core team member in the business analysis and creation of our Azure Data Warehouse (EDW).
+                Contributed to the architecture and implementation of this data repository, resulting in significant improvements in data integration and reporting capabilities.
+            - Ensured the correct functioning of the report server and Azure Data Factory (ADF) to enable seamless reporting and data integration processes.
+                Contributed to the development and implementation of automation solutions using SSIS, including the creation of automated workflows and tasks for small-scale projects.
+            -Assisted with queries to extract, transform, and load data, supporting data analysis and reporting needs.
+                Maintained and enhanced existing applications, implemented redesigns, and added new features to improve functionality.
+
+        #I am currently working at Mitsis Group (Mitsis Hotels) as an Application Developer | Business Analyst.
+        #Some of my responsibilities include:
+          #- Successfully developing and delivering over 100 complex BI reports, leveraging deep expertise to provide valuable insights and analysis that drive informed business decision-making.
+         #- Creating internal applications for various departments within the organization (HR, Marketing, Accounting, IT) using modern technologies such as React, Django, and Power Apps.
+          #- Ensuring the correct functioning of the report server and Azure Data Factory (ADF) to enable seamless reporting and data integration processes.
+          #- Contributing to the development and implementation of automation solutions using SSIS, including the creation of automated workflows and tasks, on small-scale projects.
+          #- Assisting with queries to extract, transform, and load data, supporting data analysis and reporting needs.
+          #- Maintaining and enhancing existing applications, implementing redesigns, and adding new features to improve functionality.
           
     #- Developing over 100 complex BI reports, delivering valuable insights and analysis to facilitate informed business decision-making.
     
