@@ -119,11 +119,23 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+        - role: Developer | Business Analyst
+      time: October 2023 - Until Now
+      company: Europ Assistance (Greek Branch)
+      details: |
+        I am currently working at Europ Assistance (Greek Branch) as an Developer | Business Analyst.
+        Some of my responsibilities include:
+        - Led the transformation project for migrating the company's legacy ERP system to a new, modernized platform, ensuring minimal disruption to business operations.
+        - Performed comprehensive data analysis for high-value clients, utilizing Business Intelligence (BI) tools to uncover critical trends and insights, directly informing strategic planning and decision-making processes.
+        - Developed and delivered complex Business Intelligence (BI) reports, including comprehensive financial reporting, to enhance data-driven decision-making processes across the organization.
+        - Collaborated with cross-functional teams to align technology solutions with business objectives, optimizing operational efficiency and productivity.
+        - Provided technical and analytical support, contributing to the successful completion of critical projects within tight deadlines.
+        - Assisting with queries to extract, transform, and load data, supporting data analysis and reporting needs.
     - role: Software Engineer | Business Analyst
-      time: April 2021 - October 2024
+      time: April 2021 - October 2023
       company: Mitsis Group (Mitsis Hotels)
       details: |
-        I am currently working at Mitsis Group (Mitsis Hotels) as an Software Engineer | Business Analyst.
+        I was working on working at Mitsis Group (Mitsis Hotels) as an Software Engineer | Business Analyst.
         Some of my responsibilities include:
         - Successfully serving as a Business Analyst, contributing to the development and delivery of over 100 complex BI reports, encompassing Financial Reporting for the financial department and custom reporting for Marketing, HR, IT based on the organization needs. This included drafting comprehensive Business Requirement Documents (BRDs) and leveraging deep expertise to provide valuable insights and analysis that drive informed business decision-making.
         - Led the development of a comprehensive Invoices app using React for the Accounting department, optimizing financial processes. Designed and implemented a Power App that efficiently evaluated the performance of over 4000 employees, transforming HR management.
