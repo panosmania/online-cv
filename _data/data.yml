@@ -85,7 +85,7 @@ sidebar:
         #link:
         
       #- item: Decently Experiences
-        #item1: WordPress, Bash Shell, PowerBI, Microsoft Sharepoint(Power Apps, Power Automate, Share Point Lists), KNIME, RStudio 
+        #item1: WordPress, Bash Shell, Microsoft Sharepoint(Power Apps, Power Automate, Share Point Lists), KNIME, RStudio 
         #link:
 
 career-profile:
@@ -123,10 +123,21 @@ education:
           - Bullet point
 experiences:
     - role: Business Analyst | Developer
-      time: October 2023 - Present
+      time: April 2025 - Present
+      company: NP-Asfalistiki
+      details: |
+        I am currently working at NP-Asfalistiki as an Business Analyst | Developer.
+        Some of my responsibilities include:
+        - Performing comprehensive data analysis for high-value clients using Business Intelligence (BI) tools to uncover critical trends and insights that directly inform strategic planning and decision-making.
+        - Creating and delivering complex BI reports, including detailed financial and operations reporting for internal purposes, as well as reporting for external large companies (e.g., Generali, AIG, etc.), to enhance data-driven decision-making processes across the organization.
+        - Working with cross-functional teams (e.g., Financial/Accounting, Operations, etc.) to align technology solutions with business objectives, optimizing operational efficiency and productivity.
+        - Offering technical and analytical support to contribute to the successful completion of critical projects within tight deadlines.
+        - Assisting in the migration of the company’s legacy ERP system to a modernized platform, ensuring minimal disruption to business operations.
+    - role: Business Analyst | Developer
+      time: October 2023 - March 2025
       company: Europ Assistance (Greek Branch)
       details: |
-        I am currently working at Europ Assistance (Greek Branch) as an Business Analyst | Developer.
+        I was working on working at Europ Assistance (Greek Branch) as an Business Analyst | Developer.
         Some of my responsibilities include:
         - Performing comprehensive data analysis for high-value clients using Business Intelligence (BI) tools to uncover critical trends and insights that directly inform strategic planning and decision-making.
         - Creating and delivering complex BI reports, including detailed financial and operations reporting for internal purposes, as well as reporting for external large companies (e.g., Generali, AIG, etc.), to enhance data-driven decision-making processes across the organization.
@@ -232,7 +243,7 @@ projects:
       Some of my personal project that I have create using Modern Technologies (Deployed on Online Server).
     assignments:
       - title: Coupons App
-        link: "https://www.couponakias.com/"
+        #link: "https://www.couponakias.com/"
         tagline: "A Web App that contains coupons in order to make purchases more economical, with more than 100 unique visitor every day. 
                 Builded on WooCommerce, that contains customs JS, VBA Scripts in order to manipulate data from back to front end."
     
