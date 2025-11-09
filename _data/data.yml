@@ -128,11 +128,11 @@ experiences:
       details: |
         I am currently working at NP-Asfalistiki as an Business Analyst | Developer.
         Some of my responsibilities include:
-        - Performing comprehensive data analysis for high-value clients using Business Intelligence (BI) tools to uncover critical trends and insights that directly inform strategic planning and decision-making.
-        - Creating and delivering complex BI reports, including detailed financial and operations reporting for internal purposes, as well as reporting for external large companies (e.g., Generali, AIG, etc.), to enhance data-driven decision-making processes across the organization.
-        - Working with cross-functional teams (e.g., Financial/Accounting, Operations, etc.) to align technology solutions with business objectives, optimizing operational efficiency and productivity.
-        - Offering technical and analytical support to contribute to the successful completion of critical projects within tight deadlines.
-        - Assisting in the migration of the company’s legacy ERP system to a modernized platform, ensuring minimal disruption to business operations.
+        - Leading the design and development of Power BI reports and dashboards for business insights, such as risk analysis and performance monitoring.
+        - Developing, optimizing, and maintaining SQL queries to support reporting, analytics, and production systems.
+        - Building a custom web application using Node.js, React, and SQL to streamline the accounting department’s workflow and manage payment error logs more efficiently.
+        - Maintaining and enhancing the corporate website (PHP + SQL) by fixing bugs, adding new features, and improving overall performance.
+        - Supporting business and technical teams by delivering analytical insights, resolving system issues, and contributing to the improvement of key operational processes.
     - role: Business Analyst | Developer
       time: October 2023 - March 2025
       company: Europ Assistance (Greek Branch)
