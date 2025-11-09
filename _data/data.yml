@@ -91,9 +91,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Ambitious and detail-oriented Information Systems Engineer with a passion for web applications, modern technologies, and data analysis.
-      Proactively enhances skills through personal projects in both front-end and back-end development.
-      Born on May 16, 1992, with completed military service.
+        Ambitious and detail-oriented Information Systems Engineer with extensive expertise in Business Intelligence,
+        data analysis, and web development. Experienced in designing and implementing end-to-end
+        reporting and web solutions, from SQL queries and dashboards to integrated web applications that
+        optimize business workflows. Passionate about turning complex data into actionable insights and
+        continuously expanding technical and analytical skills through hands-on full-stack projects.
+    #Ambitious and detail-oriented Information Systems Engineer with a passion for web applications, modern technologies, and data analysis.
+    #Proactively enhances skills through personal projects in both front-end and back-end development.
+    #Born on May 16, 1992, with completed military service.
     #Ambitious and detail-oriented Information Systems Engineer, interested in web apps and modern technologies.
     #Besides my work, in my free time I
     #work on personal projects in order to practice my skills on Development (Back-end, Front-end).
